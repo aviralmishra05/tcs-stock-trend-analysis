@@ -43,3 +43,17 @@ Open `TCS_Stock_Trend_Analysis.ipynb` in Google Colab or Jupyter Notebook and ru
 
 ## Disclaimer
 This project is for educational purposes only and is not investment advice.
+
+## Visualizations
+
+### 1. TCS Stock Trend Analysis with Moving Averages
+![TCS Moving Averages](tcs_moving_averages.png)
+
+### 2. Daily Percentage Returns
+![TCS Daily Returns](tcs_daily_returns.png)
+
+### 3. Monthly Stock Returns
+![TCS Monthly Returns](tcs_monthly_returns.png)
+
+### 4. Linear Regression Trend
+![TCS Regression Trend](tcs_regression_trend.png)
