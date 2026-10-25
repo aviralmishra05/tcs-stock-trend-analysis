@@ -47,13 +47,13 @@ This project is for educational purposes only and is not investment advice.
 ## Visualizations
 
 ### 1. TCS Stock Trend Analysis with Moving Averages
-![tcs moving average](tcs moving average.png)
+![TCS Moving Averages](tcs%20moving%20average.png)
 
 ### 2. Daily Percentage Returns
-![TCS Daily Returns](TCS daily returns.png)
+![TCS Daily Returns](TCS%20daily%20returns.png)
 
 ### 3. Monthly Stock Returns
-![TCS Monthly Returns](TCS monthly return.png)
+![TCS Monthly Returns](TCS%20monthly%20return.png)
 
 ### 4. Linear Regression Trend
-![TCS Regression Trend](TCS stock price linear regression trend.png)
+![TCS Regression Trend](TCS%20stock%20price%20linear%20regression%20trend.png)
